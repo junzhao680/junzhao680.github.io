@@ -1,5 +1,6 @@
-Hello and welcome to my blog and i wish you have a nice exploration !  
-Pay attention please : all pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). 
+# Hello and welcome to my blog and I wish you have a nice exploration !  
+
+Pay attention please : all pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/) you can click the link left to learn more about it. 
 
 ![Image of fast.ai logo](images/logo.png)
 
